@@ -30,8 +30,7 @@
 ## 📦 Установка и запуск
 
 ```bash
-git clone https://github.com/DobryninIlya/final_ds_course-work.git
-cd predictive_maintenance_project
+git clone https://github.com/REDSUN-pu-pu-pu/DS_course
 pip install -r requirements.txt
 streamlit run app.py
 ```
