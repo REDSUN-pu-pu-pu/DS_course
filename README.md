@@ -31,8 +31,9 @@
 
 ```bash
 git clone https://github.com/REDSUN-pu-pu-pu/DS_course
-pip install -r requirements.txt
-streamlit run app.py
+cd DS_course
+python -m pip install -r .\requirements.txt --user
+python -m streamlit run app.py
 ```
 ## Видео-демонстрация
 [Ссылка на видео](video/demonstration.mp4) или встроенное видео ниже:
