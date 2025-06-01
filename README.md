@@ -34,3 +34,6 @@ git clone https://github.com/REDSUN-pu-pu-pu/DS_course
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Видео-демонстрация
+[Ссылка на видео](video/demonstration.mp4) или встроенное видео ниже:
+<video src="video/demonstration.mp4" controls width="100%"></video>
